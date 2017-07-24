@@ -49,12 +49,9 @@ nav a:hover{
 	border-radius: 15px;
 
 }
-
-.heading{
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
+h1 {
+	text-align: center;
+	font: 50px;
 }
 
 /* Simple grid */
