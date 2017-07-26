@@ -22,7 +22,7 @@ section{
 header{
 	background-color: rgb(36,113,165);
 	color: white; /* more readable on an orange background */
-	padding-top: 50px;
+	padding-top: 5v0px;
 	padding-bottom: 50px;
 }
 
@@ -54,6 +54,10 @@ h1 {
 	font: 50px;
 }
 
+p {
+	color:white;
+}
+
 /* Simple grid */
 .g-row {
 	width: 100%;
@@ -77,6 +81,10 @@ h1 {
 .g-70{
 	width: 70%;
 	float: left;
+	width: 650px;
+	height: 288px;
+	background-color: rgb(128,128,128);
+	padding: 30px;
 }
 
 .show{
